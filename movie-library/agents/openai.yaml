@@ -1,0 +1,3 @@
+interface:
+  display_name: "Movie Library"
+  short_description: "Find movies, ratings, streaming availability, and manage local watchlists."
