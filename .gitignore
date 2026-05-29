@@ -1,0 +1,14 @@
+# Local runtime data
+.movie-library/
+movies.json
+
+# Python/cache artifacts if helper scripts are added later
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
